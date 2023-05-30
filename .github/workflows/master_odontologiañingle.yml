@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'odontologiañingle'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_219679DDF32E4A61A6BDE3B4F7CB5366 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F62550682074899B8BC2D0013FAB72C }}
           package: .
